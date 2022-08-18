@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "uname": "james",
+      "email": "james@gmail.com",
+      "phone": "798789",
+      "password": "ahsdflhj",
+      "date": "2022-08-05",
+      "id": 1
+    },
+    {
+      "uname": "aditya",
+      "email": "aditya@gmail.com",
+      "phone": "68769",
+      "password": "aditya@123",
+      "date": "1919-08-08",
+      "id": 2
+    },
+    {
+      "uname": "kamal",
+      "email": "kamal@gmail.com",
+      "phone": "5867",
+      "password": "kamal@123",
+      "date": "2022-08-05",
+      "id": 3
+    },
+    {
+      "uname": "mohan",
+      "email": "mohan@gmail.com",
+      "phone": "9969887",
+      "password": "mohan@123",
+      "date": "2022-08-15",
+      "id": 4
+    },
+    {
+      "uname": "ram",
+      "email": "ram@gmail.com",
+      "phone": "7456090902",
+      "password": "ram@123",
+      "date": "2022-08-06",
+      "id": 5
+    },
+    {
+      "uname": "sanjeev",
+      "email": "sanjeev@gmail.com",
+      "phone": "9987987",
+      "password": "sanjeev@123",
+      "date": "2022-08-04",
+      "id": 6
+    },
+    {
+      "uname": "kallu",
+      "email": "kallu@gmail.com",
+      "phone": "078798697",
+      "password": "kallu@123",
+      "date": "2003-02-13",
+      "id": 7
+    }
+  ]
+}
